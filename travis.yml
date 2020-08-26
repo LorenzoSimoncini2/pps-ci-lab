@@ -18,7 +18,7 @@ stages:
     
 env:
   global:
-    # Convenience variables for shortening commands
+    # Convenience variables for shortening commands 
     - GRAVIS_REPO="https://github.com/DanySK/Gravis-CI.git"
     - GRAVIS="$HOME/gravis"
   matrix:
